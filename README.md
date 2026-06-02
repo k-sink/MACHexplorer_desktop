@@ -1,4 +1,5 @@
 # MACH Explorer 
+## This repository contains the legacy desktop version of MACH Explorer and is no longer actively maintained. Active development has moved to the MACH Explorer R package available here
 
 ## Overview
 Developed by Katharine Sink, **MACH Explorer** leverages [Shiny](https://shiny.posit.co/) for an interactive interface to evaluate and manipulate the **MACH** dataset (Sink, 2025). 
